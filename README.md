@@ -1,6 +1,9 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Link: https://cj2901.github.io/JS_ListaToDo/
+
+This project was created using webpack. 
+
 
 ### Notas:
 
